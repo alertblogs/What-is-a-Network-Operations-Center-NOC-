@@ -1,40 +1,92 @@
-AlertOps Expert Guidance
+What is a Network Operations Center (NOC)?
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
-
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+A network operations center (“NOC”) provides a central location for enterprise IT.
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Here, network operations center team members supervise, monitor, and maintain an enterprise’s services, databases, external services, firewalls, and networks. With a full understanding of how a NOC works, your enterprise is well-equipped to maximize its performance.
 
-Clarity
+What is a NOC Team?
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Team includes engineers who track and manage endpoints. NOC team engineers also have processes, protocols, and procedures in place to identify and resolve IT infrastructure incidents. Thus, at the first sign of an incident, NOC team engineers know exactly what to do to resolve the incident as quickly and efficiently as possible.
+How a NOC team contributes to an enterprise varies based on how NOC team engineers perform.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+To deliver meaningful results for your enterprise, NOC team engineers must:
 
-Insightful Notifications
+    Collaborate and communicate with one another in real-time
+    Be accountable for their actions
+    Provide stakeholders with timely, relevant, and in-depth incident alerts
+    Track and evaluate key performance indicators (KPIs)
+
+Remember, an IT incident can occur at any time, and its ramifications can be substantial. On the other hand, if network operations center team engineers prepare for the worst-case scenarios, they can take the necessary actions to mitigate an incident. Plus, these engineers can learn from an incident, take steps to prevent it from becoming a recurring issue, and ensure that your enterprise can continuously avoid downtime and outages.
+
+NOC vs. SOC: Which Is Better?
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+The NOC vs. SOC debate continues on around the world, but it is important to note that both operations centers play vital roles in an enterprise’s success.
 
-Conclusion
+A network operations center team delivers technical support. Key responsibilities include:
+
+    Endpoint monitoring and management
+    Incident identification, classification, and resolution
+    Software installation and management
+    Email management
+    Backup and storage management
+    Patch management
+    Threat analysis
+    IT performance reporting
+
+A SOC is solely focused on security, and it protects an enterprise against ransomware, malware, and other cyberattacks. Also, a SOC team includes analysts who monitor and evaluate an enterprise’s applications, networks, websites, and other systems. If SOC analysts identify suspicious activity on any enterprise systems, they will investigate it. If SOC analysts find an enterprise has been breached, they can address the incident right away.
+
+If you’re on the fence about whether to invest in your NOC or SOC, you must consider that a NOC and SOC work together to help your enterprise thrive. These operations centers track IT infrastructure and security issues and correct IT infrastructure and security problems. As such, finding ways to optimize your NOC and SOC may help you improve all aspects of your enterprise operations.
+
+How Does a NOC Team Monitor and Evaluate Performance?
 ====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+A network operations center team often uses dashboards that provide fast, seamless access to data and insights. NOC dashboard examples include:
 
-1 Red Canary 2021 Threat Detection Report
+    Incident Management: Offers insights into active incidents
+    SLA Compliance: Informs a NOC team about SLA violations
+    Post-Mortem: Provide details to help a NOC team figure out why an incident occurred and what can be done to prevent it from happening again
+    Device Performance: Shows how devices are being utilized across an enterprise
+    Network Performance: Highlights minor and major network issues
+
+Your NOC team can learn from the aforementioned NOC dashboard examples, too. In fact, your NOC team may decide to use NOC dashboards, but it must plan accordingly to leverage them properly.
+
+If your team wants to utilize dashboards, it must first determine which dashboards best suit its day-to-day operations. To do so, NOC engineers must evaluate a dashboard’s purpose to determine if the dashboard can help a NOC team achieve its desired results. They should also gradually integrate dashboards into their operations, and over time, add or subtract dashboards as needed. That way, your NOC team can implement the right dashboards into its operations and benefit from them now and in the future.
+
+Can a network operations center Improve Data Center Availability?
+====
+A NOC data center team tracks data center availability — in many instances, in real-time. It collects data and uses it to identify availability trends and patterns. Next, with this information, a NOC data center team can find ways to improve uptime, comply with SLAs, and provide its stakeholders with the support they deserve.
+
+Ultimately, your network operations center team can increase data center availability in several ways, such as:
+
+    Monitoring your computer network and telecommunications infrastructure
+    Managing your IT infrastructure
+    Identifying and resolving incidents
+    Backing up and storing data
+
+To achieve 99.999% uptime across your data center, your NOC team should find and remove single points of failure across your IT infrastructure. It should also plan for major incidents, proactively monitor and manage your endpoints, and use virtualization tools to secure and access data. These techniques may help your enterprise improve its data center availability, as well as prevent brand reputation damage, revenue loss, and other problems commonly associated with downtime and outages.
+
+8 Network operations center Best Practices
+====
+If your team wants to streamline its operations — with NOC best practices, your NOC engineers can do just that.
+
+There are many tried-and-true best practices, including:
+
+    Monitor your information and network systems at all times
+    Establish incident response and remediation processes, protocols, and procedures
+    Set up and utilize escalation groups for incident alerts
+    Leverage an incident classification system
+    Retrieve NOC performance data and evaluate it regularly
+    Track incident response activities
+    Conduct NOC system tests
+    Create NOC team engineers schedules to ensure multiple team members are always available to respond to incidents
+
+Team should take a phased approach to implement any of the aforementioned network operations center best practices. It should also monitor its use of these best practices and continuously explore ways to improve performance.
+
+With AlertOps, your NOC team can track all stages of an incident, stay in touch with stakeholders throughout an incident, and produce in-depth incident reports.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/network-operations-center/
 
 Read more:
 ====
